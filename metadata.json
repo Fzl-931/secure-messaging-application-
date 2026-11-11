@@ -1,0 +1,6 @@
+{
+  "name": "AegisCrypt - E2EE Secure Messaging",
+  "description": "Secure messaging application featuring client-side Web Crypto authentication, ECDH P-256 key exchange, AES-256-GCM encryption, and cryptographic message integrity verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
